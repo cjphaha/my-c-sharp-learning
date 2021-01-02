@@ -1,0 +1,12 @@
+/Volumes/PERSON/C#/String01/String01/obj/Debug/netcoreapp3.1/String01.csprojAssemblyReference.cache
+/Volumes/PERSON/C#/String01/String01/obj/Debug/netcoreapp3.1/String01.AssemblyInfoInputs.cache
+/Volumes/PERSON/C#/String01/String01/obj/Debug/netcoreapp3.1/String01.AssemblyInfo.cs
+/Volumes/PERSON/C#/String01/String01/obj/Debug/netcoreapp3.1/String01.csproj.CoreCompileInputs.cache
+/Volumes/PERSON/C#/String01/String01/obj/Debug/netcoreapp3.1/String01.dll
+/Volumes/PERSON/C#/String01/String01/obj/Debug/netcoreapp3.1/String01.pdb
+/Volumes/PERSON/C#/String01/String01/bin/Debug/netcoreapp3.1/String01.deps.json
+/Volumes/PERSON/C#/String01/String01/bin/Debug/netcoreapp3.1/String01.runtimeconfig.json
+/Volumes/PERSON/C#/String01/String01/bin/Debug/netcoreapp3.1/String01.runtimeconfig.dev.json
+/Volumes/PERSON/C#/String01/String01/bin/Debug/netcoreapp3.1/String01.dll
+/Volumes/PERSON/C#/String01/String01/bin/Debug/netcoreapp3.1/String01.pdb
+/Volumes/PERSON/C#/String01/String01/obj/Debug/netcoreapp3.1/String01.genruntimeconfig.cache

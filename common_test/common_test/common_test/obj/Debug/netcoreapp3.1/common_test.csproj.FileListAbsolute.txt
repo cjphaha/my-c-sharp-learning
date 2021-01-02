@@ -1,0 +1,6 @@
+/Volumes/PERSON/C#/common_test/common_test/common_test/obj/Debug/netcoreapp3.1/common_test.csprojAssemblyReference.cache
+/Volumes/PERSON/C#/common_test/common_test/common_test/obj/Debug/netcoreapp3.1/common_test.AssemblyInfoInputs.cache
+/Volumes/PERSON/C#/common_test/common_test/common_test/obj/Debug/netcoreapp3.1/common_test.AssemblyInfo.cs
+/Volumes/PERSON/C#/common_test/common_test/common_test/obj/Debug/netcoreapp3.1/common_test.csproj.CoreCompileInputs.cache
+/Volumes/PERSON/C#/common_test/common_test/common_test/obj/Debug/netcoreapp3.1/common_test.dll
+/Volumes/PERSON/C#/common_test/common_test/common_test/obj/Debug/netcoreapp3.1/common_test.pdb
